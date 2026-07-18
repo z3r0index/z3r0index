@@ -25,17 +25,6 @@
 
 ---
 
-### the crew
-
-<p align="center">
-  <img src="profile-assets/ruby.jpg" width="220" alt="ruby" />
-  <img src="profile-assets/nieve.jpg" width="220" alt="nieve" />
-  <img src="profile-assets/ella.jpg" width="220" alt="ella" />
-</p>
-<p align="center">ruby &nbsp;•&nbsp; nieve &nbsp;•&nbsp; ella</p>
-
----
-
 ### code languages
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
