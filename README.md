@@ -8,13 +8,11 @@
 ---
 
 ### about
-- 📍 based in **Washington** — it rains basically every day, except in the summer season it doesnt rain at all
+- 📍 based in **dih city** — it rains basically every day, except in the summer season it doesnt rain at all
 - 🔧 i build iphones from scratch out of parts, not just screen swaps
 - 🚗 into cars just as much as tech
 - 🚫 i will not touch a android, ever
 - 🧊 first repair: iphone 6s when i was age 8-10, after throwing it at a wall and ripping the screen cable and swapped the cable out no problem
-- 🥤 fav drinks: baja blast, monster, water, and jarritos
-- 🎤 i once hijacked my school's PA system on April Fools because yes
 
 ### currently on the bench
 - iPod Classic (5th gen) — bringing it back to life, needs a new battery
@@ -49,13 +47,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=z3r0index&theme=dark&hide_border=true&background=0D1117&ring=e8b33d&fire=e8b33d&currStreakLabel=e8b33d" alt="streak stats" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://youtube.com/@tech-z3r0"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://tiktok.com/@z3r0.tech"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://instagram.com/8o9o8wd28EHD**@Ekus82whed8a"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.gg/bkHean4gXR"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
