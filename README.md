@@ -15,7 +15,7 @@
 - iPhone SE (2nd gen) — stripping for parts
 - MacBook — EFI locked, deciding between parting it out or programming the lock chip
 - iPad — MDM locked, i can prob get thru this once i get a vm for macOS because i need MDM Patcher or legacy kit
-- Brickverse — goated roblox revival 2016-2021 revival and im still working on it with dxo
+- Autoblox — goated roblox revival 2016-2021 revival and im still working on it with dxo
 
 ---
 
