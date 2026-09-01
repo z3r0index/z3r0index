@@ -8,11 +8,7 @@
 ---
 
 ### about
-- 📍 based in **dih city** — it rains basically every day, except in the summer season it doesnt rain at all
-- 🔧 i build iphones from scratch out of parts, not just screen swaps
-- 🚗 into cars just as much as tech
-- 🚫 i will not touch a android, ever
-- 🧊 first repair: iphone 6s when i was age 8-10, after throwing it at a wall and ripping the screen cable and swapped the cable out no problem
+-i sell vehicles and that's my main source of income
 
 ### currently on the bench
 - iPod Classic (5th gen) — bringing it back to life, needs a new battery
