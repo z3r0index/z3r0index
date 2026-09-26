@@ -10,12 +10,10 @@
 ### about
 -i sell vehicles and that's my main source of income
 
-### currently on the bench
-- iPod Classic (5th gen) — bringing it back to life, needs a new battery
-- iPhone SE (2nd gen) — stripping for parts
-- MacBook — EFI locked, deciding between parting it out or programming the lock chip
-- iPad — MDM locked, i can prob get thru this once i get a vm for macOS because i need MDM Patcher or legacy kit
-- Autoblox — goated roblox revival 2016-2021 revival and pretty dead
+### random shit
+
+--idkkkkkkk
+
 
 ---
 
