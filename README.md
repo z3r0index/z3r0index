@@ -8,8 +8,8 @@
 ---
 
 ### about
--i sell vehicles and that's my main source of income
-
+-my source of income is selling empty vapes to middle schoolers
+-what are they gonna do? tell their parents?
 ### random shit
 
 --idkkkkkkk
