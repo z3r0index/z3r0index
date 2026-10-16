@@ -1,5 +1,5 @@
 <h1 align="center">Zero</h1>
-<p align="center"><i>i work on fucking tech, cars, and whatever else has a board in it.</i></p>
+<p align="center"><i>fart on a lit match to make a homemade flamethrower</i></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=z3r0index&style=flat-square&color=e8b33d" alt="profile views" />
